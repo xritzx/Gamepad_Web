@@ -7,8 +7,13 @@ Having 4 controls UP/DOWN/LEFT/RIGHT
 Install the modules
 and run the Web controller
 ```
-pip install cherrypy
-pip install pynput
-python manage.py
+pip3 install cherrypy
+pip3 install pynput
+python3 manage.py
 ```
-Want an extra feature to be added feel free to pull a request.
+Cherrypy will start a web server on your localhost:8080
+Figure out your Local IP:
+```ifconfig``` or ```ipconfig```(FOR WINDOWS USER)
+And visit it by any device connected to the same network
+
+#####Want an extra feature to be added feel free to pull a request.
