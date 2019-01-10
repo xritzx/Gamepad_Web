@@ -6,9 +6,9 @@ Having 4 controls UP/DOWN/LEFT/RIGHT
 
 Install the modules
 and run the Web controller
-'''
+```
 pip install cherrypy
 pip install pynput
 python manage.py
-'''
+```
 Want an extra feature to be added feel free to pull a request.
