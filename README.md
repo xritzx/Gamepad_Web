@@ -16,4 +16,4 @@ Figure out your Local IP:
 ```ifconfig``` or ```ipconfig```(FOR WINDOWS USER)
 And visit it by any device connected to the same network
 
-#####Want an extra feature to be added feel free to pull a request.
+Want an extra feature to be added? Feel free to pull a request.
